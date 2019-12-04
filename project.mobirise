@@ -32,8 +32,10 @@
     "cookiesAlert": "W celu poprawienia jakości naszych usług stosujemy na tej stronie pliku cookies. Więcej szczegułów na ten temat znajdziesz na stronie <a href='polityka.html'>Polityka prywatności</a>.",
     "gdpr": "Aby kontynuować musisz zgodzić się z warunkami naszego <ahref='regulamin.html'>Regulamin</a> oraz <ahref='polityka.html'>Polityką Prywatności</a>",
     "google-analytics": "",
-    "siteUrl": "undefined",
-    "screenshot": "screenshot.png"
+    "siteUrl": "https://brytexlaser.github.io",
+    "screenshot": "screenshot.png",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
