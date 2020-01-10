@@ -342,7 +342,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "Instagram: brytexlaser",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -351,7 +351,12 @@
             "Dodatek"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-12"
+          "_anchor": "instagram-feed-block-12",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
