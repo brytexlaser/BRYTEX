@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 33,
+    "uniqCompNum": 39,
     "versionPublish": "4.9.1",
     "favicon": "",
     "noImageResize": "",
@@ -63,7 +63,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -181,11 +181,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-128x85.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brytex-logo333-128x128.png",
               "width": 128,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -193,12 +194,11 @@
               "name": "right",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>ADRES</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><b><br>Bartłomiej &nbsp;Zaguła<br>ul. Rzeszowska Boczna II/13<br>37-400 Nisko<br>woj. podkarpackie<br>NIP: 6020136585</b><br><b>REGON: 380238810</b>",
-          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><br>",
+          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><b>facebook: BRYTEX Professional </b><br><b>Laser Technology</b><br><b>Instagram: brytexlaser<br></b><br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Motywy"
@@ -212,7 +212,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><b><br></b></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Zachęcamy do trwałego, efektywnego i precyzyjnego zdobienia metodą grawerowania laserowego. W praktyce oznacza to nadanie cech indywidualnych upominkowi, a w rezultacie znaczne zwiększenie jego atrakcyjności. Oferujemy szeroki wachlarz usług, dzięki którym współpracujemy z agencjami reklamowymi, producentami jak również z osobami prywatnymi.</span><br></p><p><br></p><p><b>Gwarantujemy:\n</b></p><p><b>-</b>krótkie terminy (w zależności odiilości zamówień) &nbsp;&nbsp;<b>-</b><span style=\"font-size: 1.07rem;\">wysoką jakość i precyzję wykonania <b>&nbsp; -</b></span><span style=\"font-size: 1.07rem;\">doświadczenie</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>Oferujemy usługi grawerowania i cięcia laserem CO2 o mocy 80W. Powierzchnia robocza plotera 1300x900 mm.</b></p><p><b><br></b></p><p><b>\n</b></p><p><b>Cięcie Materiałów:\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p><p><b>- Plexi &nbsp; &nbsp;</b><b style=\"font-size: 1.07rem;\">- Akryl &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Sklejka &nbsp;</b><b style=\"font-size: 1.07rem;\">- Laminat &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Karton &nbsp;</b><b style=\"font-size: 1.07rem;\">- Folia &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Filc &nbsp;</b><b style=\"font-size: 1.07rem;\">- Guma</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Grawerowanie:\n</b></p><p><b style=\"font-size: 1.07rem;\">- Plexi\n &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Szkło &nbsp; </b><b style=\"font-size: 1.07rem;\">- Sklejka &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Laminat &nbsp;- Kamień</b></p><p><br></p><p><br></p>",
+          "text": "<p><b><br></b></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Zachęcamy do trwałego, efektywnego i precyzyjnego zdobienia metodą grawerowania laserowego. W praktyce oznacza to nadanie cech indywidualnych upominkowi, a w rezultacie znaczne zwiększenie jego atrakcyjności. Oferujemy szeroki wachlarz usług, dzięki którym współpracujemy z agencjami reklamowymi, producentami jak również z osobami prywatnymi.</span><br></p><p><br></p><p><b>Gwarantujemy:\n</b></p><p><b>-</b>krótkie terminy (w zależności od iilości zamówień) &nbsp;&nbsp;<b>-</b><span style=\"font-size: 1.07rem;\">wysoką jakość i precyzję wykonania <b>&nbsp; -</b></span><span style=\"font-size: 1.07rem;\">doświadczenie</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>Oferujemy usługi grawerowania i cięcia laserem CO2 o mocy 80W. Powierzchnia robocza plotera 1300x900 mm.</b></p><p><b><br></b></p><p><b>\n</b></p><p><b>Cięcie Materiałów do grubości 15mm: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p><p><b>- Plexi &nbsp; &nbsp;</b><b style=\"font-size: 1.07rem;\">- Akryl &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Sklejka &nbsp;</b><b style=\"font-size: 1.07rem;\">- Laminat &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Karton &nbsp;</b><b style=\"font-size: 1.07rem;\">- Folia &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Filc &nbsp;</b><b style=\"font-size: 1.07rem;\">- Guma</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Grawerowanie:\n</b></p><p><b style=\"font-size: 1.07rem;\">- Plexi\n &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Szkło &nbsp; </b><b style=\"font-size: 1.07rem;\">- Sklejka &nbsp;&nbsp;</b><b style=\"font-size: 1.07rem;\">- Laminat &nbsp;- Kamień</b></p><p><br></p><p><br></p>",
           "_tags": [
             "Motywy"
           ],
@@ -319,6 +319,39 @@
           ],
           "_name": "form2",
           "_anchor": "form2-q"
+        },
+        {
+          "_params": {
+            "token": "27848608175.727bfe1.77fd502d5ee34d2d9bf3079a534062d8",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Dodatek"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-12"
         }
       ]
     },
@@ -326,7 +359,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Polityka prywatności",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -344,7 +377,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -430,11 +463,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-128x85.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brytex-logo333-128x128.png",
               "width": 128,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -447,7 +481,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>ADRES</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><b><br>Bartłomiej &nbsp;Zaguła<br>ul. Rzeszowska Boczna II/13<br>37-400 Nisko<br>woj. podkarpackie<br>NIP: 6020136585</b><br><b>REGON: 380238810</b>",
-          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><br>",
+          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><b>facebook: BRYTEX Professional </b><br><b>Laser Technology</b><br><b>Instagram: brytexlaser<br></b><br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Motywy"
@@ -461,7 +495,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Regulamin",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -479,7 +513,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -565,11 +599,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-128x85.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brytex-logo333-128x128.png",
               "width": 128,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -582,13 +617,148 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>ADRES</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><b><br>Bartłomiej &nbsp;Zaguła<br>ul. Rzeszowska Boczna II/13<br>37-400 Nisko<br>woj. podkarpackie<br>NIP: 6020136585</b><br><b>REGON: 380238810</b>",
-          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><br>",
+          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><b>facebook: BRYTEX Professional </b><br><b>Laser Technology</b><br><b>Instagram: brytexlaser<br></b><br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Motywy"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-u"
+        }
+      ]
+    },
+    "inde.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "CENNIK",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁOWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-a\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-13-512x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brytex-logo333-128x128.png",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "right",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>ADRES</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><b><br>Bartłomiej &nbsp;Zaguła<br>ul. Rzeszowska Boczna II/13<br>37-400 Nisko<br>woj. podkarpackie<br>NIP: 6020136585</b><br><b>REGON: 380238810</b>",
+          "text2": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">KONTAKT</span></font></b><br><b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><br></span></font>email: &nbsp;zagulabartek674@wp.pl<br>tel.: 690 010 868</b><br><b>facebook: BRYTEX Professional </b><br><b>Laser Technology</b><br><b>Instagram: brytexlaser<br></b><br><br>",
+          "text3": "<br><br>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-y"
         }
       ]
     }
